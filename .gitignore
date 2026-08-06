@@ -203,3 +203,11 @@ Thumbs.db
 
 # Datos
 *.csv
+
+#images
+*.png
+
+# Entorno virtual
+venv_megalin/
+venv/
+env/
