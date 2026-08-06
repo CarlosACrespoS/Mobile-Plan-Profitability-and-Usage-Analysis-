@@ -1,4 +1,4 @@
-📱 Megaline Plan Profitability & Usage Analysis
+#📱 Megaline Plan Profitability & Usage Analysis
 
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458) ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Inference-8CAAE6) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
