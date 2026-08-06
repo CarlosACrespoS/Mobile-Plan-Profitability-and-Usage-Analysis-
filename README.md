@@ -1,4 +1,6 @@
 📱 Megaline Plan Profitability & Usage Analysis
+
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Engineering-150458) ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Inference-8CAAE6) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0)
 
 An end-to-end billing-engine reconstruction and statistical validation pipeline evaluating tariff-plan profitability, customer usage segmentation, and regional revenue performance for Megaline, a prepaid telecom operator.
